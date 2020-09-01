@@ -39,7 +39,7 @@
 ### Resources/Inspiration:
 - [Sample Data](https://www.agisoft.com/downloads/sample-data/)
 - [Model reconstruction](https://www.agisoft.com/pdf/PS_1.4_Tutorial%20(BL)%20-%203D%20Model%20Reconstruction.pdf)
-- [A brief history of photogrammetry, By Golan Levin](https://github.com/golanlevin/ExperimentalCapture/blob/master/docs/Photogrammetry-and-3D-scanning.md)
+- [A brief history of photogrammetry, By Golan Levin](https://github.com/golanlevin/ExperimentalCapture/blob/master/docs/photogrammetry.md)
 - [Slit Scan Turntable by Convivial](https://www.instructables.com/id/Slit-Scan-Turntable/)
 - [Clouds, James George & Jonathan Minard](https://medium.com/volumetric-filmmaking/spatialstorytelling-fa4b6ace3e16)
 - [Volumetric filmaking](https://medium.com/volumetric-filmmaking/the-brief-history-of-volumetric-filmmaking-32b3569c6831)
