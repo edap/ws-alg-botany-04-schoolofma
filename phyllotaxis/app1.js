@@ -2,8 +2,6 @@ var n = 0;
 var c = 3; // this is just a constant
 var max_number_of_points = 1800;
 
-var points = [];
-
 var start = 0;
 
 function setup() {
@@ -37,12 +35,12 @@ function draw() {
     //fill(100,255,255); //Hue, Saturation, Brightness.
 
     // change brightness
-    fill(0,255,map(i,0,n, 100,20));
+    fill(0, 255, map(i, 0, n, 100, 20));
     noStroke();
     // TODO, check the p5 reference and draw another form
     ellipse(x, y, 4, 4);
   }
-  if(i < max_number_of_points){
+  if (i < max_number_of_points) {
     n += 5;
     start += 5;
   }
